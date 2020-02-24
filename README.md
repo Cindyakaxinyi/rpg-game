@@ -1,2 +1,1 @@
-# rpg-game
- 
+# inventory for rpg game
