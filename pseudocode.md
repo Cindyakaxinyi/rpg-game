@@ -11,6 +11,8 @@ Start menu
 
 BEGIN game
     text: Black friday at your local Target. Appliances isle
+    generate random number from 600-700
+    save to list "balance"
     BEGIN MOVEMENT
 
 MOVEMENT
@@ -48,6 +50,7 @@ CART
 
 PUTBACK
     input "what would you line to put back?"
+    print inventory 
     if item in inventory
         delete from inventory
         add to isle
