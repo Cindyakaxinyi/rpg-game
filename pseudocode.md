@@ -50,7 +50,9 @@ CART
 
 PUTBACK
     input "what would you line to put back?"
-    print inventory 
+    print inventory
     if item in inventory
         delete from inventory
         add to isle
+
+*not done*
