@@ -1,6 +1,6 @@
 # Black friday shopping
 
-Black friday shopping simulator
+Black friday shopping simulator rpg
 
 ## Installation
 
