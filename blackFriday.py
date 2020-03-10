@@ -7,7 +7,7 @@
 # game characters
 characters = ["Target employee", "Karen", "security", "crowd"]
 # appliances at Target
-items = ["Samsung smart TV", "LG fridge", "Marble top microwave",
+items = ["Samsung smart TV", "LG minifridge", "Marble top microwave",
          "Gold plated toddler walker", "Rice cooker"]
 # prints characters
 print(f"Obstacles in the game: {characters}")
