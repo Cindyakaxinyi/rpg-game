@@ -32,6 +32,7 @@ for characters in weapons:
 
 # prints out appliances and their prices
 print("\n")
+print("items you can store in your inventory")
 print("prices in USD:")
 print("\n")
 for appliances in prices:
