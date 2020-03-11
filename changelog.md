@@ -4,3 +4,4 @@ v0.1 (2020-03-09)
 - created appliances inventory
 - created pseudocode
 - created README.md
+- created dictionaries for characters, items, locations
