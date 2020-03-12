@@ -7,7 +7,7 @@ prices = {"Samsung smart TV": "1 099.99", "LG minifridge": "138.50",
           "Gold plated toddler walker": "3 420.14"
           }
 
-weapons = {"Security guard": {"tazer", "police stick", "pepper spray"},
+weapons = {"Security guard": ["tazer", "police stick", "pepper spray"],
            "Karen": "AIYUQI Loafers Genuine Leather Flat ladies shoes 2019",
            "Cashier": "portable cash register",
            "Target employee": "steel plated walkie talkie 2004",
