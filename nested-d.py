@@ -1,5 +1,6 @@
 # dictionary for appliances and their prices
 # dictionary for characters and their weapons
+# dictionary for locations of appliances
 
 prices = {"Samsung smart TV": "1 099.99", "LG minifridge": "138.50",
           "Marble top microwave": "115.10", "Rice cooker": "149.69",
